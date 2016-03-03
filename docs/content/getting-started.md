@@ -14,7 +14,7 @@ This project helps you get started with a new .NET/Mono project solution with ev
 
 ## Manual setup
 
-### Downloading Paket and it's BootStrapper
+### Downloading Paket and its BootStrapper
 
   * Create a `.paket` folder in the root of your solution.
   * Download the latest [paket.bootstrapper.exe](https://github.com/fsprojects/Paket/releases/latest) into that folder.
